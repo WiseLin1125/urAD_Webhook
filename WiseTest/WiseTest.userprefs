@@ -8,7 +8,6 @@
       <File FileName="WiseTest/appsettings.Development.json" Line="1" Column="1" />
       <File FileName="WiseTest/appsettings.json" Line="1" Column="1" />
       <File FileName="WiseTest/.bowerrc" Line="1" Column="1" />
-      <File FileName="WiseTest/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
